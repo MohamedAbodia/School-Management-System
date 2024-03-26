@@ -13,7 +13,7 @@ This School Management System (SCMS) it is a complete web based portal applicati
 #
 
 ## Installation
-- Move SMS source code to the web directory of your choice.
+- Move SCMS source code to the web directory of your choice.
 - Create a new MySQL database.
 - Import the databse
 - Modify the file app/models/singleton.php with your database details.
@@ -21,7 +21,7 @@ This School Management System (SCMS) it is a complete web based portal applicati
 #
 #
 ## Screen Shots:
-![interface](https://github.com/MohamedAbodia/School-Management-System/blob/main/interface.png)
+![interface](https://github.com/MohamedAbodia/School-Management-System/blob/main/Interface.png)
 
 ![Login](https://github.com/MohamedAbodia/School-Management-System/blob/main/login.png)
 
