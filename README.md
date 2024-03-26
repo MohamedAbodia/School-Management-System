@@ -20,6 +20,10 @@ This School Management System (SMS) it is a complete web based portal applicatio
 
 #
 #
+## Screen Shots:
+![interface](https://github.com/MohamedAbodia/School-Management-System/blob/main/interface.png)
+
+![Login](https://github.com/MohamedAbodia/School-Management-System/blob/main/login.png)
 
 ## Overview:
   
