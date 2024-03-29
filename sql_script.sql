@@ -286,13 +286,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`userID`, `userName`, `userAddress`, `userEmail`, `userPassword`, `userType`, `fullName`) VALUES
-(1, 'esmat', 'nasr city', 'o.3@gmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 2, ' esmat mohamed'),
-(2, 'issa', 'sfnsd', 'ahmed.mohamed305@msa.edu.eg', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 1, ''),
-(3, 'othman', 'nasr city', 'o.3@gmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 3, 'Othman esmat'),
-(4, 'solyuhbn', 'fiivj', 'ss@ss', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', 3, ''),
-(5, 'salem', 'Teacher1 Address', 'salem@gmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 4, 'salem ibrahim'),
-(6, 'soli', 'soli', 'soli@soli', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', 4, 'df'),
-(7, 'soliman2', 'giza', 'soliman.harby@msa.edu.eg', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 3, ''),
+(1, 'admin', 'nasr city', 'mohamed.ibrahim32@msa.edu.eg', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 2, 'mohamed'),
+(2, 'Mohamed', 'Giza', 'mohamed.ibrahim32@msa.edu.eg', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 1, 'Mohamed Ibrahim'),
+(3, 'othman', 'nasr city', 'mohamed.ibrahim32@msa.edu.eg', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 3, 'Othman Mohamed Ibrahim'),
+(5, 'teacher1', 'Teacher1 Address', 'teacher1mail@gmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 4, 'Test Name'),
+(7, 'teacher2', 'giza', 'teacher2mail@gmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 3, ''),
 (8, 'jhg', '', 'salamasoliman610@gmial.com', 'ca643fd25af92dae8826e5a8051cc90f71e3f6dc', 3, 'kjg'),
 (9, 'solo', '', '12@muscel', '8b583aa0ac7f15508192f2ea1c56b9a07eb48e38', 2, 'ovic'),
 (10, 'yassin', 'nasrcity', 'yas@gmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 3, ''),
@@ -301,8 +299,6 @@ INSERT INTO `users` (`userID`, `userName`, `userAddress`, `userEmail`, `userPass
 (13, 'ibrahim', 'nasrcity', 'ibra@gmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 2, 'ibrahimMohamed'),
 (14, 'samir', 'nasrcity', 'samir@yahoo.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 2, 'samir Mohamed'),
 (15, 'kamel', 'nasrcity', 'kam@hotmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 4, 'kamel Othman'),
-(191536, 'hhhhh', 'hhhh', 'hhh@gmail.com', '', 3, ''),
-(191537, 'Ahmed', 'test', 'test@gmail.com', '', 3, '');
 
 --
 -- Indexes for dumped tables
